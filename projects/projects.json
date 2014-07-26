@@ -1,6 +1,20 @@
 {
-  "featured": "YouTube on PS3",
+  "featured": "Czech customizable notepads - www.teckovany.cz",
   "projects": [
+  {
+    "name": "Czech customizable notepads - www.teckovany.cz",
+    "thumb": "teckovany.cz/thumb.png",
+    "desc": "E-shop created for producer of fully customizable dotted notepads. Includes complex product calculator, clever shopping cart on client side, and cover upload preview.",
+    "url": "http://www.teckovany.cz",
+    "submitter": "winsik",
+      "E-shop", 
+      "Bootstrap", 
+      "Less", 
+      "File upload",
+      "REST",
+      "No jQuery" 
+    ]
+  },
   {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
